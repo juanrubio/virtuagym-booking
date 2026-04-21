@@ -1,0 +1,10 @@
+.venv/
+storage/*.json
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+discovery/captured-traffic.json
+.playwright-mcp/
+monica-account.md
